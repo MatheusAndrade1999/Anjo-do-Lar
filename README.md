@@ -6,15 +6,10 @@
 
 | Rank     | Prioridade |  US   | Item | Sprint | 
 | :----: | :----: | :----: | :----: | :----: |
-| #01    | Alta | EU, enquanto cliente, quero   | Desktop App |  2  |
-| #02    | Alta |EU, enquanto cliente, quero  | Desktop App |  2  | 
-| #03    | Alta |EU, enquanto cliente, quero  | Desktop App |  2  | 
-| #04    | Média |EU, enquanto cliente, quero uma  | Desktop App | 2  |
-| #05    | Média |EU, enquanto cliente, quero  | Desktop App | 3 |
-| #06    | Média |EU, enquanto cliente, quero  | Desktop App | 3 |
-| #07    | Média |EU, enquanto cliente, quero  | Desktop App | 3 |
-| #08    | Média |EU, enquanto cliente, quero  | Desktop App | 3 | 
-| #09    | Média |EU, enquanto cliente, quero  | Desktop App| 4 |
+| #01    | Alta | EU, enquanto cliente, quero fazer anúncios baseados no meu site  | Desktop App |  2  |
+| #02    | Alta |EU, enquanto cliente, quero uma versão mobile e desktop | Desktop App |  2  | 
+| #03    | Alta |EU, enquanto cliente, quero uma página home, mostrando os serviços prestados | Desktop App |  2  | 
+| #04    | Média |EU, enquanto cliente, quero uma página contato, levando meu cliente até o whatsapp | Desktop App | 2  |
 
 
 ## MVP
