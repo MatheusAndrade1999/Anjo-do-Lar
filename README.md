@@ -6,10 +6,11 @@
 
 | Rank     | Prioridade |  US   | Item | Sprint | 
 | :----: | :----: | :----: | :----: | :----: |
-| #01    | Alta | EU, enquanto cliente, quero fazer anúncios baseados no meu site  | Desktop App |  2  |
-| #02    | Alta |EU, enquanto cliente, quero uma versão mobile e desktop | Desktop App |  2  | 
-| #03    | Alta |EU, enquanto cliente, quero uma página home, mostrando os serviços prestados | Desktop App |  2  | 
-| #04    | Média |EU, enquanto cliente, quero uma página contato, levando meu cliente até o whatsapp | Desktop App | 2  |
+| #01    | Alta | EU, enquanto cliente, quero um site para aumentar minha visibilidade online e atrair novos clientes  | Desktop App |  1  |
+| #02    | Alta |EU, enquanto cliente, quero uma versão mobile e desktop | Desktop App |  1  | 
+| #03    | Média |EU, enquanto cliente, quero uma página home, mostrando os serviços prestados | Desktop App |  2  |
+| #04    | Média | EU, enquanto cliente, quero fazer anúncios baseados no meu site  | Desktop App |  3  |
+| #05    | Baixa |EU, enquanto cliente, quero uma página contato, levando meu cliente até o whatsapp | Desktop App | 4 |
 
 
 ## MVP
@@ -73,7 +74,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |    Função     | Nome                     |                               LinkedIn                                |                     GitHub                     |
 | :----------:  | :----------------------- | :-------------------------------------------------------------------: | :--------------------------------------------: |
 |   Product Owner   | Matheus Andrade                 |[<img height="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg">](https://www.linkedin.com/in/matheus-andrade-b1a65b1ba/)|      [<img align="center" height="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>](https://github.com/MatheusAndrade1999)      | 
-       |  
 
 → [Voltar ao topo](#topo)
 
