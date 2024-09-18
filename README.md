@@ -4,13 +4,13 @@
   
 ### Backlog do Produto
 
-| Rank     | Prioridade |  US   | Item | Sprint | 
-| :----: | :----: | :----: | :----: | :----: |
-| #01    | Alta | EU, enquanto cliente, quero um site para aumentar minha visibilidade online e atrair novos clientes  | Desktop App |  1  |
-| #02    | Alta |EU, enquanto cliente, quero uma versão mobile e desktop | Desktop App |  1  | 
-| #03    | Média |EU, enquanto cliente, quero uma página home, mostrando os serviços prestados | Desktop App |  2  |
-| #04    | Média | EU, enquanto cliente, quero fazer anúncios baseados no meu site  | Desktop App |  3  |
-| #05    | Baixa |EU, enquanto cliente, quero uma página contato, levando meu cliente até o whatsapp | Desktop App | 4 |
+| Rank  | Prioridade | US                                                                                                 | Sprint |
+| :---: | :--------: | :----------------------------------------------------------------------------------------          | :----: |
+| #01   | Alta      | EU, enquanto cliente, quero um site para aumentar minha visibilidade online e atrair novos clientes |  1     |
+| #02   | Alta      | EU, enquanto cliente, quero uma versão mobile e desktop                                             |  1     |
+| #03   | Média     | EU, enquanto cliente, quero uma página home, mostrando os serviços prestados                        |  2     |
+| #04   | Média     | EU, enquanto cliente, quero fazer anúncios baseados no meu site                                     |  3     |
+| #05   | Baixa     | EU, enquanto cliente, quero uma página contato, levando meu cliente até o whatsapp                  |  4     |
 
 
 ## MVP
@@ -36,34 +36,30 @@
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
 * <p>
-   <img align="left" title="html5-logo" height="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
-   Java - Linguagem de Programação
+   <img align="left" title="html5-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227503111-49bb0b02-2f06-4696-82e6-fbd8d0daed21.png"/>
+   HTML5 - Linguagem de Marcação
  </p>
- 
+
+* <p>
+   <img align="left" title="css3-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227503103-bb7005d7-5f2f-46e4-adb5-92ef19ce677d.png"/>
+   CSS3 - Linguagem de estilização
+ </p>
+
+* <p>
+   <img align="left" title="javascript-logo" height="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
+   JavaScript - Linguagem de Programação
+ </p>
+
 * <p>
   <img align="left" title="figma-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227502784-c94d5e2d-2e39-449b-ba85-053b9106b979.png"/>
    Figma - Prototipação
  </p>
 
+
 * <p>
    <img align="left" title="github-dark" height="30px" src="https://user-images.githubusercontent.com/76211125/227561942-1503fb74-eb8e-41d1-936e-bf22bc2d70eb.png#gh-dark-mode-only"/>
    <img align="left" title="github-light" height="30px" src="https://user-images.githubusercontent.com/76211125/227561896-a90cea71-7431-4908-ac8d-71fc02603eeb.png#gh-light-mode-only"/>
    GitHub - Versionamento
- </p>
-
-* <p>
-   <img align="left" title="vscode" height="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg"/>
-   InteliJ - IDE
- </p>
-
-* <p>
-   <img align="left" title="vscode" height="30px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"/>
-   MySQL - Banco de dados
- </p>
- 
-* <p>
-   <img align="left" title="vscode" height="30px" src="https://github.com/Phoenix-Team-Fatec/DataEase/assets/69217649/1a8d8fbf-f2ae-4b75-bfe5-4ee7a7c53925"/>
-   LangChain4j - Biblioteca Java
  </p>
  
 
