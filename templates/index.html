@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anjo do Lar - Home</title>
+  <link rel="stylesheet" href="../static/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">Anjo do Lar</div>
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="#quem-somos">Quem Somos</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+    <div class="hamburger" onclick="toggleMenu()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </header>
+
+  <section class="carousel">
+    <div class="carousel-container">
+      <div class="slide">
+        <img src="../static/img-alvenaria.jpg" alt="Imagem 1">
+      </div>
+      <div class="slide">
+        <img src="../static/img-eletrica.jpg" alt="Imagem 2">
+      </div>
+      <div class="slide">
+        <img src="../static/img-hidraulica.jpg" alt="Imagem 3">
+      </div>
+      <div class="slide">
+        <img src="../static/img-pintura.jpg" alt="Imagem 4">
+      </div>
+      <!-- Duplicando slides para criar o efeito contínuo -->
+      <div class="slide">
+        <img src="../static/img-alvenaria.jpg" alt="Imagem 1">
+      </div>
+      <div class="slide">
+        <img src="../static/img-eletrica.jpg" alt="Imagem 2">
+      </div>
+      <div class="slide">
+        <img src="../static/img-hidraulica.jpg" alt="Imagem 3">
+      </div>
+      <div class="slide">
+        <img src="../static/img-pintura.jpg" alt="Imagem 4">
+      </div>
+    </div>
+  </section>
+
+  <section id="quem-somos" class="quem-somos">
+    <h2>Quem Somos</h2>
+    <div class="cards">
+      <div class="card">Missão: Oferecer soluções de manutenção predial e residencial com 
+                        excelência e confiabilidade, facilitando o dia a dia dos nossos clientes por meio de
+                        um website intuitivo, moderno e acessível, que garante a interação rápida e eficiente
+                        com nossos serviços.
+                      </div>
+      <div class="card">Visão: Ser referência nacional em serviços de manutenção e reparos residenciais,
+                        utilizando tecnologia e um atendimento humanizado para garantir uma experiência única 
+                        e acessível a todos, seja via desktop ou dispositivos móveis.
+                      </div>
+      <div class="card">Valores: Compromisso com a qualidade. Inovação. Responsabilidade e transparência.
+                        Facilidade de acesso. Sustentabilidade.
+                      </div>
+      
+    </div>
+  </section>
+
+  <section class="servicos">
+    <h2>Nossos Serviços</h2>
+    <div class="cards">
+      <div class="card">Elétrica</div>
+      <div class="card">Hidráulica</div>
+      <div class="card">Pintura</div>
+      <div class="card">Alvenaria</div>
+      <div class="card">E muito mais...</div>
+    </div>
+   </section>
+
+  <footer class="footer">
+    <p>&copy; 2024 Anjo do Lar. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="../scripts.js"></script>
+</body>
+</html>
