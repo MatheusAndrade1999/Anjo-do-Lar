@@ -201,3 +201,17 @@ body {
     object-fit: cover;
   }
 }
+
+.localizacao {
+  padding: 50px;
+  text-align: center;
+}
+
+.map-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+}
