@@ -11,6 +11,8 @@
 | #03   | Média     | EU, enquanto cliente, quero uma página home, mostrando os serviços prestados                        |  2     |
 | #04   | Média     | EU, enquanto cliente, quero fazer anúncios baseados no meu site                                     |  3     |
 | #05   | Baixa     | EU, enquanto cliente, quero uma página contato, levando meu cliente até o whatsapp                  |  4     |
+| #04   | Baixa     | EU, enquanto cliente, quero um formulario para que o cliente envie um email de contato              |  4     |
+| #05   | Baixa     | EU, enquanto cliente, quero um mapa, mostrando nossa cidade de atuação                              |  4     |
 
 
 ## MVP
